@@ -1,0 +1,1 @@
+My name is Julian and I am learning Obsidian right now.
