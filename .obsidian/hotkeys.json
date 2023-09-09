@@ -1,4 +1,14 @@
 {
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:new-tab": [],
+  "editor:toggle-checklist-status": [],
   "darlal-switcher-plus:switcher-plus:open-headings": [
     {
       "modifiers": [

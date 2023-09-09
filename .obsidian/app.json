@@ -1,3 +1,6 @@
 {
-  "newFileLocation": "current"
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettlekasten",
+  "attachmentFolderPath": "Files",
+  "alwaysUpdateLinks": true
 }

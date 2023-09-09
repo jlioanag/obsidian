@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0520292c194c007c",
+        "id": "65382a6990d97b49",
         "type": "tabs",
         "children": [
           {
-            "id": "2882f1697765f4c6",
+            "id": "298be7f0a3b607a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japanese/30 Day Moe Way/Day 0.md",
+                "file": "30 Day Moe Way/Day 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ccaa674e391bc1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/A does B sentence logical trios.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "30 Day Moe Way/Day 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "30 Day Moe Way/Day 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,53 +139,34 @@
               "type": "graph",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "38ca07097a2a661c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c28699c72a65f31c",
+            "id": "8adede2186cd5a78",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "outline",
               "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012125,
-                  "close": true
-                }
+                "file": "30 Day Moe Way/Day 3.md"
+              }
+            }
+          },
+          {
+            "id": "236afcc7f0a6200d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "30 Day Moe Way/Day 3.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 394.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,20 +177,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "55a893acb1dbf543",
+  "active": "298be7f0a3b607a8",
   "lastOpenFiles": [
-    "Japanese/30 Day Moe Way/Day 0.md",
-    "Japanese/30 Day Moe Way",
-    "Japanese",
+    "30 Day Moe Way/Day 1.md",
+    "30 Day Moe Way/Day 2.md",
+    "30 Day Moe Way/Day 3.md",
+    "Zettlekasten/A does B sentence logical trios.md",
+    "30 Day Moe Way/30 Day Moe Way.md",
+    "Zettlekasten/The wa particle.md",
+    "Zettlekasten/wo logical particle for more complex japanese sentences.md",
+    "Zettlekasten/The invisible carriage (zero pronoun).md",
+    "Zettlekasten/Active immersion.md",
+    "Zettlekasten/The core of japanese sentence.md",
+    "Zettlekasten/Passive immersion.md",
+    "Zettlekasten/Subtitle tutor.md",
+    "Files/Pasted image 20230909110837.png",
+    "Files/Pasted image 20230909110830.png",
+    "Files/Pasted image 20230909110704.png",
+    "Files/Pasted image 20230909110619.png",
+    "Templates/Japanese Challenge Template.md",
+    "Templates/Core Zettle Idea.md",
+    "Files/Pasted image 20230909105155.png",
+    "Files/Pasted image 20230909104758.png",
+    "Zettlekasten/Untitled.md",
+    "Files/Pasted image 20230909104402.png",
+    "Files/Pasted image 20230909104351.png",
+    "Files/Pasted image 20230909104126.png",
+    "Zettlekasten/Three forms of Japanese sentences.md",
+    "Zettlekasten/Japanese.md",
+    "Zettlekasten/Language Learning.md",
+    "Files/Pasted image 20230909102749.png",
+    "Files/30 Day Moe Way/Day 3.md",
+    "30 Day Moe Way",
+    "Files/30 Day Moe Way/Day 1.md",
+    "Files/30 Day Moe Way/Day 2.md",
+    "Files/30 Day Moe Way/30 Day Moe Way.md",
+    "Files",
+    "References",
+    "Zettlekasten",
+    "Templates",
+    "Untitled.canvas",
+    "Obsidian Tutorial/Blah blah blah.md",
     "Obsidian Tutorial/Interstellar Travel.md",
     "Obsidian Tutorial/Who are you.md",
-    "Obsidian Tutorial/Blah blah blah.md",
-    "2023-09-05.md",
-    "Obsidian Tutorial/Untitled.md",
+    "Files/30 Day Moe Way",
+    "Japanese",
     "Obsidian Tutorial"
   ]
 }
