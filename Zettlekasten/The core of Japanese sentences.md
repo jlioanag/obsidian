@@ -1,5 +1,5 @@
 2023-09-09 10:16
-Tags: [[Japanese]],[[Language Learning]]
+Tags: [[Japanese]]
 
 # A is B and A does B
 All sentences have a *Main Car (A)* and *Engine (B)*. This is the core.

@@ -1,5 +1,5 @@
 2023-09-09 10:47
-Tags: [[Japanese]][[Language Learning]]
+Tags: [[Japanese]]
 
 # を-car
 Object: noun we are doing something to

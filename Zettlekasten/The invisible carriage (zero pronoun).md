@@ -1,5 +1,5 @@
 2023-09-09 10:38
-Tags: [[Japanese]][[Language Learning]]
+Tags: [[Japanese]]
 
 # The invisible carriage
 
@@ -18,7 +18,7 @@ The **Engine** is always visible.
 〇が土曜日だ。
 >*It(or Today)* is Saturday.
 
-New car to know: [[wo logical particle for more complex japanese sentences]]
+New car to know: [[The wo logical particle for more complex japanese sentences]]
 
 ___
 # References

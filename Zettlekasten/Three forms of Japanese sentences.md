@@ -1,5 +1,5 @@
 2023-09-09 10:26
-Tags: [[Japanese]], [[Language Learning]]
+Tags: [[Japanese]]
 
 # Three forms of Japanese sentences
 ![[Pasted image 20230909102749.png]]
@@ -13,4 +13,4 @@ Tags: [[Japanese]], [[Language Learning]]
 
 ___
 # References
-[[The core of japanese sentence]]
+[[The core of Japanese sentences]]

@@ -2,5 +2,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Zettlekasten",
   "attachmentFolderPath": "Files",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "spellcheck": false
 }

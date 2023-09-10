@@ -1,5 +1,5 @@
 2023-09-09 11:05
-Tags: [[The wa particle]][[Language Learning]][[Japanese]]
+Tags: [[The wa particle]][[Japanese]]
 
 # A does B sentence logical trios
 ### が、を、に are the logical particles
@@ -14,7 +14,7 @@ All sentences have a が but を and に are optional.
 ![[Pasted image 20230909110837.png]]
 "As for the ball, I throw it at Sakura."
 
-> When we change a non-logical particle the logic sticks. *But if we change the logical particles, they change.*
+> When we change a non-logical particle the logic sticks. *But if we change the logical particles, the logic changes.*
 
 ___
 # References

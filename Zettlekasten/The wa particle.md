@@ -1,5 +1,5 @@
 2023-09-09 10:58
-Tags: [[Japanese]][[Language Learning]]
+Tags: [[Japanese]]
 
 # The は particle
 **は can NEVER be a part of the core sentence**
