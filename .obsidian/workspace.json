@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d255585171ac6015",
+        "id": "b9ca603cd37038fb",
         "type": "tabs",
         "children": [
           {
-            "id": "195e703c90ec0a46",
+            "id": "f39bbdc059002345",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "past tense",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettlekasten/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettlekasten/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/Untitled.md"
+              }
             }
           },
           {
@@ -135,7 +143,19 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Zettlekasten/Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "65390856f7605e3d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -158,49 +178,50 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "195e703c90ec0a46",
+  "active": "f39bbdc059002345",
   "lastOpenFiles": [
-    "30 Day Moe Way/Day 3.md",
-    "Zettlekasten/Effects of resting coffee.md",
-    "Zettlekasten/A does B sentence logical trios.md",
-    "Zettlekasten/The wo logical particle for more complex japanese sentences.md",
-    "Zettlekasten/Subtitle tutor.md",
-    "Zettlekasten/Passive immersion.md",
-    "Zettlekasten/Active immersion.md",
-    "Zettlekasten/The core of Japanese sentences.md",
-    "Zettlekasten/Three forms of Japanese sentences.md",
-    "Zettlekasten/The invisible carriage (zero pronoun).md",
-    "Zettlekasten/The wa particle.md",
-    "30 Day Moe Way/Day 2.md",
-    "30 Day Moe Way/Day 1.md",
-    "Files/Pasted image 20230909104351.png",
-    "Files/Pasted image 20230909104126.png",
-    "Files/Pasted image 20230909102749.png",
-    "Templates/Japanese Challenge Template.md",
+    "30 Day Moe Way/Day 8.md",
+    "Zettlekasten/Untitled.md",
     "30 Day Moe Way/30 Day Moe Way.md",
-    "Files/Pasted image 20230909110837.png",
-    "Files/Pasted image 20230909110830.png",
-    "Files/Pasted image 20230909110704.png",
-    "Files/Pasted image 20230909110619.png",
-    "Templates/Core Zettle Idea.md",
-    "Files/Pasted image 20230909105155.png",
-    "Files/Pasted image 20230909104758.png",
-    "Files/Pasted image 20230909104402.png",
+    "Zettlekasten/2023-09-17.md",
     "Zettlekasten/Japanese.md",
-    "Zettlekasten/Language Learning.md",
-    "Files/30 Day Moe Way/Day 3.md",
+    "Zettlekasten/Making compound nouns.md",
+    "Zettlekasten/-te form for complex sentences (with more than one clause).md",
+    "30 Day Moe Way/Day 7.md",
+    "Zettlekasten/3 move-word pairs.md",
+    "Files/Pasted image 20230916100715.png",
+    "Files/Pasted image 20230916100641.png",
+    "30 Day Moe Way/Day 6.md",
+    "Zettlekasten/adjective to adverb translation.md",
+    "Zettlekasten/noun to adverb translation.md",
+    "Files/Pasted image 20230915122913.png",
+    "Files/Pasted image 20230915122203.png",
+    "Zettlekasten/Japanese conjucations.md",
+    "Zettlekasten/Japanese negative exceptions.md",
+    "30 Day Moe Way/Day 5.md",
+    "Zettlekasten/Japanese past tense adjective transformation.md",
+    "Zettlekasten/Japanese negative adjective transformation.md",
+    "Zettlekasten/Japanese negative verbs with a-stem.md",
+    "Zettlekasten/Japanese non-exist conjucation.md",
+    "30 Day Moe Way/Day 3.md",
+    "Zettlekasten/The core of Japanese sentences.md",
+    "Zettlekasten/-to particle can be used for quotations.md",
+    "Zettlekasten/Attaching verbs together with i-stem.md",
+    "Files/Pasted image 20230913121405.png",
+    "Files/Pasted image 20230913120723.png",
+    "Templates/Japanese Challenge Template.md",
+    "Zettlekasten/Verbs as nouns in Japanese.md",
+    "Zettlekasten/Godan verb endings.md",
+    "Files/Pasted image 20230911191037.png",
+    "Files/Pasted image 20230911190909.png",
+    "Files/Pasted image 20230911185716.png",
+    "Files/Pasted image 20230911185457.png",
     "30 Day Moe Way",
-    "Files/30 Day Moe Way/Day 1.md",
-    "Files/30 Day Moe Way/Day 2.md",
-    "Files/30 Day Moe Way/30 Day Moe Way.md",
     "Files",
     "References",
     "Zettlekasten",
     "Templates",
     "Untitled.canvas",
-    "Obsidian Tutorial/Blah blah blah.md",
-    "Obsidian Tutorial/Interstellar Travel.md",
-    "Obsidian Tutorial/Who are you.md",
     "Files/30 Day Moe Way",
     "Japanese",
     "Obsidian Tutorial"

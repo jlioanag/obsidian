@@ -1,7 +1,7 @@
 2023-09-09 10:47
 Tags: [[Japanese]]
 
-# を-car
+# を-particle
 Object: noun we are doing something to
 **NOT PART OF THE CORE TRAIN**
 

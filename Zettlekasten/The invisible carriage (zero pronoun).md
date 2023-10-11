@@ -16,7 +16,7 @@ The **Engine** is always visible.
 >*It* is a rabbit!
 
 〇が土曜日だ。
->*It(or Today)* is Saturday.
+>*It (or Today)* is Saturday.
 
 New car to know: [[The wo logical particle for more complex japanese sentences]]
 
