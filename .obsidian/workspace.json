@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ca603cd37038fb",
+        "id": "8a1d96cb7d2ca8a6",
         "type": "tabs",
         "children": [
           {
-            "id": "f39bbdc059002345",
+            "id": "0e695e5cdc38b404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettlekasten/Untitled.md",
+                "file": "Zettlekasten/-te form for complex sentences (with more than one clause).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettlekasten/Untitled.md",
+                "file": "Zettlekasten/-te form for complex sentences (with more than one clause).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettlekasten/Untitled.md",
+                "file": "Zettlekasten/-te form for complex sentences (with more than one clause).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +124,12 @@
             "id": "55a893acb1dbf543",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Zettlekasten/nAts Cypher Sunset (1).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettlekasten/Untitled.md"
+                "file": "Zettlekasten/-te form for complex sentences (with more than one clause).md"
               }
             }
           },
@@ -144,7 +148,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Zettlekasten/Untitled.md"
+                "file": "Zettlekasten/-te form for complex sentences (with more than one clause).md"
               }
             }
           },
@@ -154,7 +158,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -163,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
+    "width": 916.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -178,50 +184,50 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "f39bbdc059002345",
+  "active": "0e695e5cdc38b404",
   "lastOpenFiles": [
-    "30 Day Moe Way/Day 8.md",
-    "Zettlekasten/Untitled.md",
-    "30 Day Moe Way/30 Day Moe Way.md",
-    "Zettlekasten/2023-09-17.md",
-    "Zettlekasten/Japanese.md",
     "Zettlekasten/Making compound nouns.md",
+    "Zettlekasten/nAts Cypher Sunset (1).md",
     "Zettlekasten/-te form for complex sentences (with more than one clause).md",
-    "30 Day Moe Way/Day 7.md",
-    "Zettlekasten/3 move-word pairs.md",
+    "Zettlekasten/nAts Cypher Split (1).md",
+    "Zettlekasten/Untitled.md",
+    "Zettlekasten/The core of Japanese sentences.md",
+    "Zettlekasten/Passive immersion.md",
+    "Zettlekasten/Levels of verbs in Japanese.md",
+    "Zettlekasten/na-adjectives in Japanese.md",
+    "Zettlekasten/Japanese past tense adjective transformation.md",
+    "Zettlekasten/Japanese negative exceptions.md",
+    "Zettlekasten/Japanese conjucations.md",
+    "Zettlekasten/helper verb -garu.md",
+    "Zettlekasten/from particle (kara).md",
+    "Zettlekasten/Active immersion.md",
+    "Zettlekasten/adjective to stem form.md",
+    "Zettlekasten/and particles (to and ya).md",
+    "Zettlekasten/-to particle can be used for quotations.md",
+    "Templates/Core Zettle Idea.md",
+    "Templates/Japanese Challenge Template.md",
+    "Zettlekasten/Valorant.md",
+    "Zettlekasten/Japanese.md",
+    "Untitled.canvas",
+    "Zettlekasten/Effects of resting coffee.md",
+    "Zettlekasten/Godan verb endings.md",
+    "Zettlekasten/te-form and ta-form in japanese.md",
+    "Zettlekasten/Absolute time expression in Japanese.md",
+    "Files/Pasted image 20231011081554.png",
+    "Files/Pasted image 20231011081142.png",
     "Files/Pasted image 20230916100715.png",
     "Files/Pasted image 20230916100641.png",
-    "30 Day Moe Way/Day 6.md",
-    "Zettlekasten/adjective to adverb translation.md",
-    "Zettlekasten/noun to adverb translation.md",
     "Files/Pasted image 20230915122913.png",
     "Files/Pasted image 20230915122203.png",
-    "Zettlekasten/Japanese conjucations.md",
-    "Zettlekasten/Japanese negative exceptions.md",
-    "30 Day Moe Way/Day 5.md",
-    "Zettlekasten/Japanese past tense adjective transformation.md",
-    "Zettlekasten/Japanese negative adjective transformation.md",
-    "Zettlekasten/Japanese negative verbs with a-stem.md",
-    "Zettlekasten/Japanese non-exist conjucation.md",
-    "30 Day Moe Way/Day 3.md",
-    "Zettlekasten/The core of Japanese sentences.md",
-    "Zettlekasten/-to particle can be used for quotations.md",
-    "Zettlekasten/Attaching verbs together with i-stem.md",
     "Files/Pasted image 20230913121405.png",
     "Files/Pasted image 20230913120723.png",
-    "Templates/Japanese Challenge Template.md",
-    "Zettlekasten/Verbs as nouns in Japanese.md",
-    "Zettlekasten/Godan verb endings.md",
     "Files/Pasted image 20230911191037.png",
     "Files/Pasted image 20230911190909.png",
-    "Files/Pasted image 20230911185716.png",
-    "Files/Pasted image 20230911185457.png",
     "30 Day Moe Way",
     "Files",
     "References",
     "Zettlekasten",
     "Templates",
-    "Untitled.canvas",
     "Files/30 Day Moe Way",
     "Japanese",
     "Obsidian Tutorial"
